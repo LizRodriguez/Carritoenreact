@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Blusa",
+        "author": "ZARA",
+        "price": 150,
+        "img": "https://i.pinimg.com/736x/49/ba/2c/49ba2c78ccd922998e43b2f740145b0a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pantalon de vestir",
+        "author": "ZARA",
+        "price": 200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx4EjRRpa3sLlF0O9hw810PfvH3HizzzYLCA&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Vestido negro",
+        "author": "Carolina Herrera",
+        "price": 300,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMhG7itv8YuiYmNpDBPNc9p09LksUdXRH7w&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Top de rayas",
+        "author": "ZARA",
+        "price": 150,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWZLCe7fvS76byv8ZAT7kjT-90pBTljKdqg&usqp=CAU"
+    }
+]
